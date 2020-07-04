@@ -1,0 +1,15 @@
+/* *は全体を指定　*/
+*{
+    font-size: 80px;
+}
+
+/* なんで.じゃなくて＃? */
+/* idには＃　classには. */
+#foo{
+    color: red;
+    float: right;
+}
+
+.bar{
+    color: blue;
+}
